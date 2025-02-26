@@ -232,3 +232,148 @@ text-align: center;
     margin-bottom:20px ;
     padding-bottom:25px ;
 }
+/* Projects */
+
+.projects{
+     
+    text-align: center;
+    border: 1px solid wheat;
+    box-shadow:2px 0 2px 2px rgb(248, 233, 206) ;
+    margin-bottom:20px ;
+    padding-bottom: 10px;
+    padding-top:30px;
+
+}
+.projects h3{
+  font-size:23px ;
+  font-family: "Playfair Display", serif;
+}
+.projects p{
+    font-size:13px ;
+    font-family: "Poppins", serif;
+    margin-bottom:17px ;
+}
+.wowtaxi{
+    align-items: center;
+    justify-content: center;
+}
+.text1{
+    max-width:40% ;
+    height:160px ;
+    border:1px solid black ;
+    border-radius: 5px;
+    box-shadow:2px 1px 2px 1px rgb(200, 194, 194)   ;
+
+}
+.text1 h4{
+    font-size:15px ;
+    color: rgb(255, 174, 0);
+    font-family: "Poppins", serif;
+}
+.text1 p{
+font-size: 10px;
+margin-top: 10px;
+}
+.text1 a{
+    text-decoration:none;
+    font-family: "Poppins", serif;
+}
+.taxi{
+    width:165px ;
+    height:160px ;
+}
+.img1{
+    background: rgb(255, 191, 0);
+    max-width:40% ;
+    border-radius: 5px;
+    margin-right:10px ;
+   
+}
+
+
+
+
+
+.block{
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.text2{
+    max-width:40% ;
+    height:160px ;
+    border:1px solid black ;
+    border-radius: 5px;
+    box-shadow:2px 1px 2px 1px rgb(200, 194, 194)   ;
+
+}
+.text2 h4{
+    font-size:15px ;
+    color: rgb(255, 174, 0);
+    font-family: "Poppins", serif;
+}
+.text2 p{
+font-size: 10px;
+margin-top: 10px;
+}
+.text2 a{
+    text-decoration:none;
+    font-family: "Poppins", serif;
+}
+.be{
+    width:165px ;
+    height:160px ;
+}
+.img2{
+    background: rgb(255, 191, 0);
+    max-width:40% ;
+    border-radius: 5px;
+    margin-right:10px ;
+   
+}
+
+
+
+
+
+.paybox{
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.text3{
+    max-width:40% ;
+    height:160px ;
+    border:1px solid black ;
+    border-radius: 5px;
+    box-shadow:2px 1px 2px 1px rgb(200, 194, 194)   ;
+
+}
+.text3 h4{
+    font-size:15px ;
+    color: rgb(255, 174, 0);
+    font-family: "Poppins", serif;
+}
+.text3 p{
+font-size: 10px;
+margin-top: 10px;
+}
+.text3 a{
+    text-decoration:none;
+    font-family: "Poppins", serif;
+}
+.pay{
+    width:165px ;
+    height:160px ;
+}
+.img3{
+    background: rgb(255, 191, 0);
+    max-width:40% ;
+    border-radius: 5px;
+    margin-right:10px ;
+   
+}
+
+.project{
+    box-shadow:2px 2px 1px 1px ;
+}
